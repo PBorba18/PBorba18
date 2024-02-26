@@ -1,7 +1,7 @@
 # Olá Pessoal! Me chamo Paulo Messias
 
 - 🔭 Estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade tiradentes. .
-- 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais em minha area de interesse, cybersegurança.
+- 🌱 Passo uma parte do tempo aprendendo, analisando, pesquisando, testando e desenvolvendo projetos pessoais em minha area de interesse.
 - ⚡ Possuo conhecimetos e praticas em diversas areas de tecnologias como: 
  
 ## Habilidades
